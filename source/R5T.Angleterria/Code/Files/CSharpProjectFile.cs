@@ -5,6 +5,6 @@ namespace R5T.Angleterria
 {
     public class CSharpProjectFile
     {
-        public const string FileExtension = "csproj";
+        public const string FileExtension = Angleterria.FileExtension.CSharpProjectFile;
     }
 }
